@@ -1,0 +1,24 @@
+{
+  "name": "myapp-monorepo",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "nx run-many --target=build",
+    "test": "nx run-many --target=test",
+    "typecheck": "nx run-many --target=typecheck",
+    "affected:build": "nx affected:build",
+    "affected:test": "nx affected:test",
+    "graph": "nx graph"
+  },
+  "devDependencies": {
+    "nx": "^18.0.0",
+    "@nx/react-native": "^18.0.0",
+    "@nx/next": "^18.0.0",
+    "@nx/js": "^18.0.0",
+    "typescript": "^5.3.3"
+  }
+}
