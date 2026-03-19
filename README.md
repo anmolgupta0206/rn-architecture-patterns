@@ -59,7 +59,7 @@ Each pattern is fully independent — jump to whichever is most relevant to you.
 ## 🛠️ Tech Stack
 
 ```
-React Native 0.73+    TypeScript (strict)    React Navigation v6
+React Native 0.84+    TypeScript (strict)    React Navigation v7
 Redux Toolkit 2.x     Zustand 4.x            TanStack Query 5.x
 WatermelonDB          MMKV                   Nx (monorepo)
 Axios                 NetInfo                AsyncStorage
