@@ -2,7 +2,7 @@
 
 > **7+ years** of production React Native patterns — documented with working TypeScript code, architectural decisions, and real tradeoffs. Built by [Anmol Gupta](https://github.com/anmolgupta0206).
 
-![React Native](https://img.shields.io/badge/React_Native-0.73+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0.84+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2.x-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-5.x-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
